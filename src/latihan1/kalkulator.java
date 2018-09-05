@@ -363,7 +363,7 @@ public class kalkulator extends javax.swing.JFrame {
     }//GEN-LAST:event_kaliActionPerformed
 
     private void kurangActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_kurangActionPerformed
-        // TODO add your handling code here:
+        // TODO add your handling code here: code code
         angka1=Double.parseDouble(angka);
         output.setText("-");
         angka="";
